@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Urooj and I'm a Frontend Developer from Pakistan.</p>
+<p align="left">My name is Urooj and I'm Full stack developer from Pakistan.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Passionate about building responsive and user-friendly web interfaces  <br>Currently learning JavaScript and modern frontend development  <br> Goal: To become a skilled Frontend Developer and gain real-world experience through internships  <br>Building projects to improve my problem-solving and UI development skills</p>
+<p align="left">Passionate about building responsive and user-friendly web interfaces  <br>Currently learning JavaScript and modern frontend development  <br> Goal: To become a skilled  Developer and gain real-world experience through internships  <br>Building projects to improve my problem-solving and UI development skills</p>
 
 ###
 
@@ -36,6 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  
 </div>
 
 ###
